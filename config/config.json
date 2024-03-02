@@ -1,0 +1,4 @@
+{
+    "apikey": "your_api_key_here",
+    "modelName":"facebook/wav2vec2-base-960h"
+}
